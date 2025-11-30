@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Полезные материалы/Изучить позже.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Изучить позже"
             }
           }
         ]
@@ -182,15 +182,18 @@
   },
   "active": "9df9168fa82f788d",
   "lastOpenFiles": [
+    "Полезные материалы/Трудоустройство.md",
+    "Полезные материалы/Изучить позже.md",
     "Untitled.md",
-    "README.md",
     "Welcome.md",
+    "README.md",
+    "create a link.md",
+    "2025-10-29.md",
+    "Полезные материалы",
     "templates/Разбор материала.md",
     "templates/Идея.md",
     "templates/Анализ идеи.md",
     "templates",
-    "create a link.md",
-    "2025-10-29.md",
     "Untitled.canvas",
     "Untitled.base"
   ]
