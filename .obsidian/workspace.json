@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полезные материалы/Изучить позже.md",
+                "file": "Полезные материалы/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Изучить позже"
+              "title": "TODO"
             }
           }
         ]
@@ -182,17 +182,17 @@
   },
   "active": "9df9168fa82f788d",
   "lastOpenFiles": [
-    "Полезные материалы/Трудоустройство.md",
-    "Полезные материалы/Изучить позже.md",
-    "Untitled.md",
     "Welcome.md",
+    "Untitled.md",
     "README.md",
     "create a link.md",
-    "2025-10-29.md",
-    "Полезные материалы",
+    "Полезные материалы/Трудоустройство.md",
+    "Полезные материалы/TODO.md",
     "templates/Разбор материала.md",
     "templates/Идея.md",
     "templates/Анализ идеи.md",
+    "2025-10-29.md",
+    "Полезные материалы",
     "templates",
     "Untitled.canvas",
     "Untitled.base"
